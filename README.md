@@ -25,4 +25,4 @@ This project demonstrates how to combine the power of LangChain's ReAct agents, 
 
 ### How to use
 
-Follow the Article : Link
+Follow the Article : [https://link.medium.com/1eAtV8X29Jb](https://link.medium.com/1eAtV8X29Jb)
