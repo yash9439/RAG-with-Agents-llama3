@@ -1,5 +1,7 @@
 # Qdrant-LangChainReActAgents-Groq
 
+Article Link : https://medium.com/@yash9439/using-langchain-react-agents-with-qdrant-and-llama3-for-intelligent-information-retrieval-b181ce7a5962
+
 Code implementation for building an intelligent information retrieval system using LangChain ReAct agents, Qdrant Vector Database, and the llama3 large language model (LLM) from the Groq Inference endpoint.
 
 ## Introduction
